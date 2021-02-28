@@ -1,0 +1,106 @@
+* {
+  margin-top: 0;
+  padding: 0;
+}
+
+.home {
+  height: 100vh;
+  background-image: url(./images/background4.jpg);
+}
+
+.container-home {
+  margin-top: 75px;
+}
+
+.header {
+  position: fixed;
+  width: 100%;
+}
+
+.foto-perfil {
+  height: 100%;
+  width: auto;
+  max-width: 100%;
+  border-radius: 50%;
+  margin-bottom: 30px;
+}
+
+.corPrimaria {
+  color: rgb(172, 170, 170); ;
+}
+
+.corSecundaria {
+  background-color: rgb(15, 145, 37);
+}
+
+p {
+  font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  color: black !important;
+}
+
+.icones {
+  padding-left: 5px;
+  color: rgb(172, 170, 170);
+}
+
+.icones:hover {
+  color:rgb(240, 235, 235)
+}
+
+.titulosBrancos {
+  text-decoration: underline;
+  text-underline-position: below;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: white;
+}
+
+.titulosVerdes {
+  text-decoration: underline;
+  text-underline-position: below;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: green;
+}
+
+.textoBranco {
+  color: white !important;
+}
+
+.jumbotron {
+  margin-bottom: 0px;
+}
+
+.textoFooter {
+  margin: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.app-btn-filter  button{
+  margin: 30px 15px 30px 0px;
+}
+
+.box-footer {
+  display:flex;
+  justify-content: space-between;
+  margin: 0px 10px 0px 10px;
+}
+
+.box-footer-left {
+  display: flex;
+}
+
+.box-footer-left p {
+  margin-left: 10px;
+}
+
+footer {
+  height: 50px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
