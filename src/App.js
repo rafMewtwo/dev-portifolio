@@ -25,8 +25,7 @@ function App() {
   useEffect(() => {
     respostaUser();
     respostaRepos();
-  },[]);
-
+  }, []);
 
   return (
     <div>
