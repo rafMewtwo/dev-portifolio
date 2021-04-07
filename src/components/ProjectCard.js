@@ -1,5 +1,4 @@
 import React from 'react';
-import '../style/projectCard.css';
 import PropTypes from 'prop-types';
 
 function ProjectCard({ name, thumb }) {

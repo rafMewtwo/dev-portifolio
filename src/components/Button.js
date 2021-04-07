@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import Context from '../services/context/Context';
 
 function Button({ btnName, btnType }) {
-  const { setActiveFilter, testActiveFilter } = useContext(Context);
+  const { testActiveFilter } = useContext(Context);
   const btnHeader = 'header-btn';
 
   if (btnType === btnHeader) {

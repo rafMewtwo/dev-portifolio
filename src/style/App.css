@@ -97,6 +97,27 @@ p {
   margin-left: 10px;
 }
 
+.contactClass {
+  display: flex;
+}
+
+.contactFromClass {
+  width: 50%;
+  margin-left: 25%;
+}
+
+.footerFont {
+  font-size: small;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+@media ( max-width: 700px ) {
+  .contactFromClass {
+    width: 100%;
+    margin-left: 0%;
+  }
+}
+
 footer {
   height: 50px;
 }

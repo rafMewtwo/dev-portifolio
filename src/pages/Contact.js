@@ -19,13 +19,16 @@ function Contact() {
 
   return (
     <section id="contato">
-      <div>
+      <div className="contactClass">
         <div className="container-fluid" onSubmit={sendEmail} >
-          <h3 className="text-center" >Disponivel para oportunidades</h3>
+
+          <h4 className="text-center">Sinta-se a vontade de entrar em contato diretamente ou pelo nosso sistema de mensagens abaixo</h4>
+
+          <h3 className="text-center" >Disponível para oportunidades</h3>
           <h4 className="text-center"><i className="fas fa-envelope-square fa-lg"></i> {devInfo.links.email}</h4>
           <h4 className="text-center"><i className="fab fa-whatsapp-square fa-lg"> </i> {devInfo.whatsapp}</h4> 
-          <h4 className="text-center">Sinta-se a vontade de entrar em contato diretamente ou pelo nosso sistema de mensagens abaixo</h4>
-          <form>
+
+          <form className="contactFromClass">
             <div className="form-group">
               <label htmlFor="exampleFormControlInput1">Nome</label>
               <input type="text" className="form-control" id="exampleFormControlInput1" placeholder="Nome e sobrenome" name="name" />
