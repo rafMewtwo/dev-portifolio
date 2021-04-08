@@ -111,6 +111,16 @@ p {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+.begin-contact {
+  margin-top: 30px;
+}
+
+li {
+  list-style-type: none;
+  font-size: larger;
+  color: black;
+}
+
 @media ( max-width: 700px ) {
   .contactFromClass {
     width: 100%;

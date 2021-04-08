@@ -22,7 +22,7 @@ function Contact() {
       <div className="contactClass">
         <div className="container-fluid" onSubmit={sendEmail} >
 
-          <h4 className="text-center">Sinta-se a vontade de entrar em contato diretamente ou pelo nosso sistema de mensagens abaixo</h4>
+          <h4 className="text-center begin-contact">Sinta-se a vontade de entrar em contato diretamente ou pelo nosso sistema de mensagens abaixo</h4>
 
           <h3 className="text-center" >Disponível para oportunidades</h3>
           <h4 className="text-center"><i className="fas fa-envelope-square fa-lg"></i> {devInfo.links.email}</h4>
