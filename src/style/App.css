@@ -118,6 +118,48 @@ p {
   }
 }
 
+@media (width: 360px)  {
+  .foto-perfil {
+    width: 50%;
+  }
+}
+
+@media (width: 411px ) {
+  .foto-perfil {
+    width: 80%;
+  }
+}
+
+@media (width: 320px ) {
+  .foto-perfil {
+    width: 40%;
+  }
+}
+
+@media (width: 375px ) {
+  .foto-perfil {
+    width: 60%;
+  }
+}
+
+@media (width: 414px ) {
+  .foto-perfil {
+    width: 90%;
+  }
+}
+
+@media (width: 540px ) {
+  .foto-perfil {
+    width: 70%;
+  }
+}
+
+@media ( width: 280px ) {
+  .foto-perfil {
+    width: 50%;
+  }
+}
+
 footer {
   height: 50px;
 }

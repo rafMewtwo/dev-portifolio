@@ -33,6 +33,12 @@ const devInfo = {
       { name: 'sd-06-project-react-testing-library', type: 'Front-End' },
       { name: 'app-github-repo-consulter', type: 'Front-End' },
       { name: 'sd-06-project-starwars-datatable-hooks', type: 'Front-End' },
+      { name: 'mysql-sintaxe', type: 'Back-End' },
+      { name: 'mongodb-sintax', type: 'Back-End' },
+      { name: 'sd-06-cookmaster', type: 'Back-End' },
+      { name: 'sd-06-crush-manager', type: 'Back-End' },
+      { name: 'sd-06-store-manager', type: 'Back-End' },
+      { name: 'sd-06-trybeer', type: 'Back-End' },
     ],
   },
 };
