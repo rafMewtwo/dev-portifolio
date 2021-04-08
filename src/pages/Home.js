@@ -18,8 +18,8 @@ function About() {
           <h1 className="jumbotron-heading corPrimaria">{devInfo.name}</h1>
           <p className="lead text-muted">{devInfo.description.resume}</p>
           <p>
-            <a href={`https://gitconnected.com/${devInfo.uteis.githubUser}/resume`} target="_blank" className="btn btn-primary my-2">Curriculum Vitae</a>
-            <a href="#" className="btn btn-secondary my-2">Call-to-action secundário</a>
+            <a href={`https://gitconnected.com/${devInfo.uteis.githubUser}/resume`} target="_blank" className="btn btn-primary my-2">Curriculum Vitae Online</a>
+            <a href="#" className="btn btn-secondary my-2">Curriculum Vitae PDF</a>
           </p>
           <a href={devInfo.links.github} target="_blank"><i className="fab fa-github-square icones fa-2x"></i></a>
           <a href={devInfo.links.linkedin} target="_blank"><i className="fab fa-linkedin icones fa-2x"></i></a>
