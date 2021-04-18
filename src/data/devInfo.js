@@ -39,6 +39,7 @@ const devInfo = {
       { name: 'sd-06-crush-manager', type: 'Back-End' },
       { name: 'sd-06-store-manager', type: 'Back-End' },
       { name: 'sd-06-trybeer', type: 'Back-End' },
+      { name: 'socketio-webchat', type: 'Back-End' },
     ],
   },
 };
