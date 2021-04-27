@@ -26,7 +26,7 @@ function Contact() {
 
           <h3 className="text-center" >Disponível para oportunidades</h3>
           <h4 className="text-center"><i className="fas fa-envelope-square fa-lg"></i> {devInfo.links.email}</h4>
-          <h4 className="text-center"><i className="fab fa-whatsapp-square fa-lg"> </i> {devInfo.whatsapp}</h4> 
+          <h4 className="text-center"><i className="fab fa-whatsapp-square fa-lg"> </i> (91)98152-1827</h4> 
 
           <form className="contactFromClass">
             <div className="form-group">

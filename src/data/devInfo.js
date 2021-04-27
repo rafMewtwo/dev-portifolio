@@ -6,7 +6,7 @@ const devInfo = {
   description: {
     resume: 'Desenvolvedor Front-end e Back-end, Criador de conteúdo e Marketing Digital',
     fullDescription: `Meu nome é Rafael Ponciano, sou desenvolvedor web full stack.
-    Possuo duas formações pela UNAMA (Universidade da Amazônia) sendo Tecnólogo em análise e desenvolvimento de sistemas e Bacharel em sistema de informacoes.
+    Possuo duas formações pela UNAMA (Universidade da Amazônia) sendo Tecnólogo em análise e desenvolvimento de sistemas e Bacharel em sistema de informação.
     Minha primeira experiencia de trabalho foi no BASA (Banco da Amazônia) como analista de suporte cuja função era orientar e resolver problemas de todas as agências filiais do Brasil.
     Posteriormente em 2017 a 2019 trabalhei com e-sport prestando serviço para empresa Blizzard (desenvolvedora de grandes jogos como World of Warcraft e Hearthstone), saindo da zona de conforto para atuar na área de comunicação.
     Em 2018 iniciei uma formação em Comunicação e Marketing Digital pela ESTRATEGO com a conclusão em Jun/2020.
