@@ -25,6 +25,8 @@ function AboutRead() {
           <li>ORM Sequelize Júnior</li>
           <li>Heroku Básico</li>
           <li>Vercel Básico</li>
+          <li>Socket.io Básico</li>
+          <li>EJS Básico</li>
         </ul>
       </div>
     </section>
